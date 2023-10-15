@@ -1,6 +1,6 @@
 <linker>
     <assembly fullname="0Harmony">
-        <type fullname="HarmonyLib.*" preserve="all"/>
-        <type fullname="Mono.Collections.Generic.Collection`1" preserve="all"/>
+        <type fullname="HarmonyLib.Harmony*"/>
+        <type fullname="Mono.Collections.Generic.Collection`1"/>
     </assembly>
 </linker>
