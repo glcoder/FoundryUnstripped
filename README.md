@@ -1,5 +1,7 @@
 # FoundryUnstripped
 
+**ARCHIVED**: Use [FoundryUnstrippedLibraries](https://github.com/glcoder/FoundryUnstrippedLibraries) instead of this.
+
 Unity project for building partially stripped [Harmony](https://github.com/pardeike/Harmony) library for [Foundry](https://www.paradoxinteractive.com/games/foundry/about) game.
 
 The main idea thx to [@erkle64](https://github.com/erkle64) is to get stripped Harmony library but with code necessary to make mod patches.
